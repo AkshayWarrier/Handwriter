@@ -1,0 +1,4 @@
+This is some sample text to see if my
+program works or not I also want to
+test capital letters like THE QUICK
+BROWN FOX JUMPED OVER THE LAZY DOG
